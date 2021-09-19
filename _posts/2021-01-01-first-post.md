@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Awesome Post"
-author: "Isa AlDoseri"
+author: "isa"
 ---
 
 I am awesome. Enough said. Okay? Okay.
